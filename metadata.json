@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Power Grid",
+  "description": "A 3D interactive model of an electric supply system from generation to customer distribution.",
+  "requestFramePermissions": []
+}
